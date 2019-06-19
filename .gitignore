@@ -1,0 +1,6 @@
+src/**/obj/**/*
+src/**/bin/**/*
+tests/**/bin/*
+tests/**/obj/*
+*.cache
+src/backend/packages/**/*
